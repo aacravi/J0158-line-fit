@@ -13,4 +13,6 @@ Script *compare_2_lines*:
 
 This script compares the extracted parameters from the line fitting of two different lines and tries fitting periodic functions to check for periodicity. This script should be run after running *single_line_fit* for the two lines to compare. 
 
+In the folder *1D_extracted_COMBINED* are the extracted 1D spectra of J0158
+
 In the folder *J0158 plots* are collected all the fitting plots for the lines MgII and H alpha.
